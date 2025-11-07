@@ -28,8 +28,8 @@ public class Eureka {
         
         do {
             System.out.println("╔════════════════════════════════════════════════════════╗");
-            System.out.println("║  🧪 Laboratorio Eureka (Casi)   Inventos Fracasados    ║");
-            System.out.println("║       Desde los confines de Europa hasta aquí          ║");
+            System.out.println("║  🧪 Laboratorio Eureka          Inventos Fracasados    ║");
+            System.out.println("║                                                        ║");
             System.out.println("╚════════════════════════════════════════════════════════╝");
             System.out.println("1. Registrar invento");
             System.out.println("2. Mostrar valor final de un invento por código");

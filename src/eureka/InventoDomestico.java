@@ -43,7 +43,7 @@ public class InventoDomestico extends Invento {
     }
 
     /**
-     * Bono de eficiencia según estándares de Europa
+     * Bono de eficiencia
      */
     public double bonoEficiencia() {
         // Utilidad Alta y consumo menor a 200W, $450,000

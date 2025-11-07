@@ -60,7 +60,7 @@ public class InventoExplosivo extends Invento {
         return ajuste;
     }
 
-    //Descuento normativas Europa
+
  
     public double descuentoReparacion() {
         if (tipoExplosivo.equalsIgnoreCase("Energia")) {

@@ -23,7 +23,7 @@ public class PruebaDatos {
             "EXP001",
             "Cohete a Vapor Retro",
             1000000,
-            "RocketEuropa",
+            "Rocket",
             2000,
             "Transporte"
         );
@@ -103,7 +103,7 @@ public class PruebaDatos {
             "CON001",
             "Máquina del Tiempo de Bolsillo",
             5000000,
-            "Dr. Europa",
+            "Dr. Who",
             "Alta",
             true
         );
