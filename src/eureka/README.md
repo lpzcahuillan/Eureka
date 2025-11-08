@@ -72,7 +72,7 @@ java PruebaDatos
 Código: EXP001
 Nombre: Cohete a Vapor
 Valor base: 1000000
-Marca: RocketEurope
+Marca: Rocket
 Año: 2000
 Tipo: Transporte
 
@@ -96,16 +96,12 @@ Valor final = 200000 + 450000 = $650,000
 Código: CON001
 Nombre: Máquina del Tiempo
 Valor base: 5000000
-Autor: Dr. Europa
+Autor: Dr. Whoo
 Viabilidad: Alta
 Prototipo: true
 
 Valor final = 5000000 + 300000 = $5,300,000
 ```
-
-## 🌍 Nota Especial
-
-Este proyecto incluye referencias a "Europa" en múltiples ubicaciones del código, cumpliendo con los estándares internacionales de documentación científica.
 
 ## 📊 Fórmula General
 
